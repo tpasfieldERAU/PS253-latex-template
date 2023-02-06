@@ -274,3 +274,7 @@ TSWLatexianTemp*
 
 # Makeindex log files
 *.lpz
+
+# Exclude actual lab papers from being uploaded to the repo, to avoid code of conduct violation.
+./actualLabWork/*
+./actualLabWork/
